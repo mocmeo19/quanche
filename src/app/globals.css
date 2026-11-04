@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-cream: #fbf5e6;
+  --color-coconut: #fffdf7;
+  --color-pandan: #3f7d4f;
+  --color-pandan-light: #dcebd5;
+  --color-redbean: #8c2f39;
+  --color-mung: #e8c25a;
+  --color-ink: #2b2420;
+  --color-ink-soft: #6b5d52;
+  --font-sans: var(--font-body);
+  --font-display: var(--font-heading);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}

@@ -1,0 +1,46 @@
+{
+  "tool": "built-in image_gen",
+  "note": "AI-generated photorealistic food illustrations",
+  "prompts": [
+    {
+      "slug": "che-ba-mau",
+      "prompt": "Photorealistic clear glass of chè ba màu: red beans, mung bean paste, green pandan jelly, crushed ice, coconut milk. Warm wooden table, natural window light, cream and green background, square, no text."
+    },
+    {
+      "slug": "che-thai",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè Thái sầu riêng, creamy milk with yellow durian flesh, jackfruit strips, translucent coconut jelly and tapioca pearls. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-buoi",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè bưởi, golden mung bean pudding with translucent chewy pomelo pith cubes and coconut cream. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "suong-sa-hat-luu",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of sương sa hạt lựu, red tapioca-coated water chestnut cubes, green pandan jelly strips, mung beans, young coconut and coconut milk. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-troi-nuoc",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè trôi nước, three white glutinous rice balls in clear amber ginger syrup, sesame seeds and thin ginger strips. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-bap",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè bắp, creamy Vietnamese sticky corn pudding, pale yellow corn kernels and small translucent tapioca pearls, coconut cream swirl. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-chuoi",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè chuối, cooked short banana slices in coconut milk, tiny clear tapioca pearls topped with roasted crushed peanuts. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-dau-den",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè đậu đen, glossy whole black beans in dark sweet syrup with a white coconut cream swirl. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-sen-long-nhan",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè sen long nhãn, translucent peeled longan fruit stuffed with pale lotus seeds in clear light golden syrup. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    },
+    {
+      "slug": "che-khuc-bach",
+      "prompt": "Use case: photorealistic-natural. Square real food photography for Vietnamese dessert menu. Single centered ceramic bowl of chè khúc bạch, white and pale matcha green panna cotta cubes, peeled longans and lychees in clear syrup, toasted sliced almonds. Warm pale wooden table, cream and muted green softly blurred background, soft natural window light, elevated 45 degree view showing ingredients clearly, full bowl with breathing room, authentic appetizing textures. No text, no logo, no collage."
+    }
+  ]
+}
