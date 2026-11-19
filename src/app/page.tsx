@@ -1,21 +1,13 @@
-import { SiteFooter } from "@/components/layout/SiteFooter";
-import { SiteHeader } from "@/components/layout/SiteHeader";
-import { AboutSection } from "@/components/sections/AboutSection";
-import { HeroSection } from "@/components/sections/HeroSection";
-import { MenuSection } from "@/components/sections/MenuSection";
-import { VisitSection } from "@/components/sections/VisitSection";
+import { ExploreSection } from '@/components/sections/ExploreSection';
+import { HeroSection } from '@/components/sections/HeroSection';
+import { MarqueeBand } from '@/components/sections/MarqueeBand';
 
 export default function Home() {
   return (
-    <>
-      <SiteHeader />
-      <main className="flex-1">
-        <HeroSection />
-        <AboutSection />
-        <MenuSection />
-        <VisitSection />
-      </main>
-      <SiteFooter />
-    </>
+    <main className="flex-1">
+      <HeroSection />
+      <MarqueeBand />
+      <ExploreSection />
+    </main>
   );
 }

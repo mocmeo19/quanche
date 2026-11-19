@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.git
+.idea
+.playwright-mcp
+.DS_Store
+.env*
+*.tsbuildinfo
+npm-debug.log*
+Dockerfile
+.dockerignore

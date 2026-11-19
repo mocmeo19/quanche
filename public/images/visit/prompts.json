@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "useCase": "photorealistic-natural",
+  "note": "AI-generated illustrative scenes; not documentary photographs of the actual venue or guests.",
+  "images": [
+    {
+      "file": "khong-gian-quan.webp",
+      "prompt": "Use case: photorealistic-natural. Asset: Vietnamese chè dessert shop visit-page editorial photograph, landscape 3:2. Setting: a small welcoming contemporary Saigon dessert cafe with cream plaster walls, muted pandan-green painted timber window frames, light honey wooden tables, simple wooden chairs, a few leafy plants and cream ceramic bowls. Soft afternoon daylight, warm natural colors, realistic textures, believable candid documentary photography, not a luxury restaurant, no heavy orange filter. No visible text, no signage, no logos, no watermarks, no collage. Subject: inviting unoccupied corner of the cafe, wide interior view at eye level showing 3 small tables and the large green-framed window, soft sunlight on the cream wall. On the nearest table two modest servings of traditional Vietnamese chè: a clear glass with red beans, yellow mung beans, green pandan jelly and white coconut milk, and a small ceramic bowl of white glutinous rice balls in amber ginger syrup, with small steel spoons. Frame a coherent real room with correct furniture perspective, tasteful everyday neighborhood charm."
+    },
+    {
+      "file": "ban-be-thuong-che.webp",
+      "prompt": "Use case: photorealistic-natural. Asset: Vietnamese chè dessert shop visit-page editorial photograph, landscape 3:2. Setting: a small welcoming contemporary Saigon dessert cafe with cream plaster walls, muted pandan-green painted timber window frames, light honey wooden tables, simple wooden chairs, a few leafy plants and cream ceramic bowls. Soft afternoon daylight, warm natural colors, realistic textures, believable candid documentary photography, not a luxury restaurant, no heavy orange filter. No visible text, no signage, no logos, no watermarks, no collage. Subject: three fictional Vietnamese adult friends in their mid twenties, two women and one man, wearing relaxed simple everyday cream, light olive and muted red clothing, seated at a wooden table beside the green-framed window. They are smiling naturally and chatting with each other, not looking at camera. Three servings of Vietnamese chè on the table, one tall clear glass layered with beans and green pandan jelly under coconut milk, two small bowls of coconut milk dessert with fruit. Medium-wide candid composition includes all faces and dishes with generous margins so a square crop also works. Natural facial details, realistic hands, no exaggerated posing."
+    },
+    {
+      "file": "mot-chen-che-am.webp",
+      "prompt": "Use case: photorealistic-natural. Asset: Vietnamese chè dessert shop visit-page editorial photograph, landscape 3:2. Setting: a small welcoming contemporary Saigon dessert cafe with cream plaster walls, muted pandan-green painted timber window frames, light honey wooden tables, simple wooden chairs, a few leafy plants and cream ceramic bowls. Soft afternoon daylight, warm natural colors, realistic textures, believable candid documentary photography, not a luxury restaurant, no heavy orange filter. No visible text, no signage, no logos, no watermarks, no collage. Subject: a fictional Vietnamese woman server in her thirties wearing an unbranded muted green apron over a cream shirt gently setting one small ceramic bowl of Vietnamese chè trôi nước on a wooden table for a seated adult Vietnamese female guest. The guest smiles naturally at the server. The bowl has three white glutinous rice balls in amber ginger syrup sprinkled with sesame. A second glass of chè ba màu is already on the table. Medium environmental photograph with both faces, hands and food visible in the central composition, natural candid hospitality moment, realistic hand anatomy."
+    }
+  ]
+}
